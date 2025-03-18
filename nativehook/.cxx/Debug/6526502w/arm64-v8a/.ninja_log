@@ -1,0 +1,17 @@
+# ninja log v5
+32	419	7639436555073444	CMakeFiles/sandhook-native.dir/utils/platform.cpp.o	b5ab69977e0f0ea3
+64	423	7639436555085638	CMakeFiles/sandhook-native.dir/archs/arm/arm64/register/register_arm64.cpp.o	a1241b9dddbd5162
+69	530	7639436555846998	CMakeFiles/sandhook-native.dir/archs/arm/arm64/register/register_list_arm64.cpp.o	1ba7f9155a373367
+9	1814	7639436569005399	CMakeFiles/sandhook-native.dir/decoder/decoder.cpp.o	6ae47c31ebbb61a4
+25	1850	7639436569375367	CMakeFiles/sandhook-native.dir/buffer/code_buffer.cpp.o	36a57ed33e29f602
+4	1868	7639436569525513	CMakeFiles/sandhook-native.dir/sandhook_native.cpp.o	b4c7bb32c955d58e
+54	1900	7639436569728790	CMakeFiles/sandhook-native.dir/archs/arm/arm64/decoder/decoder_arm64.cpp.o	28965d9e60072311
+13	1902	7639436569718776	CMakeFiles/sandhook-native.dir/elf/elf.cpp.o	2e549132f94e438c
+20	1931	7639436570105635	CMakeFiles/sandhook-native.dir/relocate/code_relocate.cpp.o	f8f60c24333a678d
+36	1933	7639436570226084	CMakeFiles/sandhook-native.dir/hook/hook.cpp.o	c253ac18c92cf437
+48	1935	7639436570135759	CMakeFiles/sandhook-native.dir/archs/arm/arm64/assembler/assembler_arm64.cpp.o	5c3ae72aa32c7f5b
+17	1937	7639436570196081	CMakeFiles/sandhook-native.dir/assembler/assembler.cpp.o	487e79a78a79053c
+82	1980	7639436570739169	CMakeFiles/sandhook-native.dir/archs/arm/arm64/relocate/code_relocate_arm64.cpp.o	13d343a536272ffb
+73	2055	7639436571565989	CMakeFiles/sandhook-native.dir/archs/arm/arm64/hook/hook_arm64.cpp.o	a392e0aa26fe8177
+42	2085	7639436571854777	CMakeFiles/sandhook-native.dir/archs/arm/arm64/inst/inst_arm64.cpp.o	c8e1396539d3c1f
+2085	2182	7639436572801328	C:/GitHub/SandHook/nativehook/build/intermediates/cxx/Debug/6526502w/obj/arm64-v8a/libsandhook-native.so	b47bc9708f7447fb

@@ -1,0 +1,87 @@
+[
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\sandhook.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\sandhook.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\sandhook.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\trampoline\\trampoline.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\trampoline.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\trampoline.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\trampoline\\trampoline_manager.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\trampoline_manager.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\trampoline_manager.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\utils\\dlfcn_nougat.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\dlfcn_nougat.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\dlfcn_nougat.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\utils\\hide_api.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\hide_api.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\hide_api.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\utils\\utils.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\utils.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\utils.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\utils\\offset.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\offset.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\offset.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\utils\\elf_util.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\elf_util.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\utils\\elf_util.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\casts\\cast_art_method.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\casts\\cast_art_method.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\casts\\cast_art_method.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\casts\\cast_compiler_options.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\casts\\cast_compiler_options.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\casts\\cast_compiler_options.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\art\\art_method.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\art\\art_method.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\art\\art_method.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\art\\art_compiler_options.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\art\\art_compiler_options.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\art\\art_compiler_options.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\trampoline\\arch\\arm32.S.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\arch\\arm32.S",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\arch\\arm32.S"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\trampoline\\arch\\arm64.S.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\arch\\arm64.S",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\trampoline\\arch\\arm64.S"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\inst\\insts_arm32.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\inst\\insts_arm32.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\inst\\insts_arm32.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\inst\\insts_arm64.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\inst\\insts_arm64.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\inst\\insts_arm64.cpp"
+},
+{
+  "directory": "C:/GitHub/SandHook/hooklib/.cxx/Release/2w6t6u2t/armeabi-v7a",
+  "command": "C:\\Users\\MiniPc\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/Users/MiniPc/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsandhook_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -std=c++11 -o CMakeFiles\\sandhook.dir\\nativehook\\native_hook.cpp.o -c C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\nativehook\\native_hook.cpp",
+  "file": "C:\\GitHub\\SandHook\\hooklib\\src\\main\\cpp\\nativehook\\native_hook.cpp"
+}
+]

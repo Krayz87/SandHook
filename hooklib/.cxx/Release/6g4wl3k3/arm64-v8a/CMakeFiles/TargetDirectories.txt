@@ -1,0 +1,3 @@
+C:/GitHub/SandHook/hooklib/.cxx/Release/6g4wl3k3/arm64-v8a/CMakeFiles/sandhook.dir
+C:/GitHub/SandHook/hooklib/.cxx/Release/6g4wl3k3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/GitHub/SandHook/hooklib/.cxx/Release/6g4wl3k3/arm64-v8a/CMakeFiles/rebuild_cache.dir

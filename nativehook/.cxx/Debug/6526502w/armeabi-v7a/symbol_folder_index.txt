@@ -1,0 +1,1 @@
+C:\GitHub\SandHook\nativehook\build\intermediates\cxx\Debug\6526502w\obj\armeabi-v7a

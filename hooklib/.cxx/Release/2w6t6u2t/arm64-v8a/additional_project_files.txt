@@ -1,0 +1,2 @@
+C:\GitHub\SandHook\hooklib\src\main\cpp\trampoline\arch\arm32.S
+C:\GitHub\SandHook\hooklib\src\main\cpp\trampoline\arch\arm64.S

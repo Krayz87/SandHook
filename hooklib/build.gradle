@@ -1,10 +1,11 @@
 apply plugin: 'com.android.library'
 
 android {
+    namespace = "com.swift.sandhook"
     compileSdkVersion 28
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -39,14 +40,3 @@ dependencies {
     api project(':annotation')
 }
 
-apply plugin: 'com.novoda.bintray-release'
-
-publish {
-    userOrg = rootProject.userOrg
-    groupId = rootProject.groupId
-    artifactId = 'hooklib'
-    publishVersion = rootProject.publishVersion
-    desc = rootProject.desc
-    website = rootProject.website
-    licences = rootProject.licences
-}

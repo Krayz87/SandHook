@@ -1,0 +1,19 @@
+# ninja log v5
+20	108	7639436600359971	CMakeFiles/sandhook.dir/utils/offset.cpp.o	1e1e2b925e83df89
+43	128	7639436600377848	CMakeFiles/sandhook.dir/inst/insts_arm32.cpp.o	8842d6cd625b2a11
+1	140	7639436600687697	CMakeFiles/sandhook.dir/trampoline/trampoline.cpp.o	aca89e1494e9986b
+47	207	7639436601301090	CMakeFiles/sandhook.dir/trampoline/arch/arm32.S.o	57625ec3c3292fce
+57	214	7639436601430531	CMakeFiles/sandhook.dir/inst/insts_arm64.cpp.o	2cafad92156f857e
+53	229	7639436601501879	CMakeFiles/sandhook.dir/trampoline/arch/arm64.S.o	4eafbc7065de7140
+23	236	7639436601600673	CMakeFiles/sandhook.dir/utils/elf_util.cpp.o	1dc2865fff939b7
+62	247	7639436601744116	CMakeFiles/sandhook.dir/nativehook/native_hook.cpp.o	4eaea7bb8636f457
+17	249	7639436601764103	CMakeFiles/sandhook.dir/utils/utils.cpp.o	deb8c795e36066b5
+38	433	7639436603619237	CMakeFiles/sandhook.dir/art/art_compiler_options.cpp.o	1fd11d2dbac4f3a1
+35	443	7639436603661178	CMakeFiles/sandhook.dir/casts/cast_compiler_options.cpp.o	24bcee7a90308e94
+11	611	7639436605382264	CMakeFiles/sandhook.dir/utils/dlfcn_nougat.cpp.o	b9ff1cd057eeb34d
+27	812	7639436607403828	CMakeFiles/sandhook.dir/art/art_method.cpp.o	1f358f2ee32172fd
+5	841	7639436607679642	CMakeFiles/sandhook.dir/sandhook.cpp.o	273c27044453b27c
+8	849	7639436607759335	CMakeFiles/sandhook.dir/utils/hide_api.cpp.o	d2c2aa1348ea0ea8
+31	872	7639436607987376	CMakeFiles/sandhook.dir/casts/cast_art_method.cpp.o	7d7bab5e478060f9
+13	935	7639436608610477	CMakeFiles/sandhook.dir/trampoline/trampoline_manager.cpp.o	66524ddf3da33462
+936	1025	7639436609540499	C:/GitHub/SandHook/hooklib/build/intermediates/cxx/Release/2w6t6u2t/obj/arm64-v8a/libsandhook.so	cea6aad384397fd0
